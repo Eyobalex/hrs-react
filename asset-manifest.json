@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/hrs-react/static/css/main.8fd93e17.chunk.css",
+    "main.js": "/hrs-react/static/js/main.2575abb6.chunk.js",
+    "main.js.map": "/hrs-react/static/js/main.2575abb6.chunk.js.map",
+    "runtime-main.js": "/hrs-react/static/js/runtime-main.9490dfb5.js",
+    "runtime-main.js.map": "/hrs-react/static/js/runtime-main.9490dfb5.js.map",
+    "static/css/2.c3e87adf.chunk.css": "/hrs-react/static/css/2.c3e87adf.chunk.css",
+    "static/js/2.2fff60ff.chunk.js": "/hrs-react/static/js/2.2fff60ff.chunk.js",
+    "static/js/2.2fff60ff.chunk.js.map": "/hrs-react/static/js/2.2fff60ff.chunk.js.map",
+    "index.html": "/hrs-react/index.html",
+    "precache-manifest.2e0c5f1429bd78c0669abce3604b674b.js": "/hrs-react/precache-manifest.2e0c5f1429bd78c0669abce3604b674b.js",
+    "service-worker.js": "/hrs-react/service-worker.js",
+    "static/css/2.c3e87adf.chunk.css.map": "/hrs-react/static/css/2.c3e87adf.chunk.css.map",
+    "static/css/main.8fd93e17.chunk.css.map": "/hrs-react/static/css/main.8fd93e17.chunk.css.map",
+    "static/media/font-awesome.min.css": "/hrs-react/static/media/fontawesome-webfont.fee66e71.woff"
+  }
+}
