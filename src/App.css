@@ -1,22 +1,95 @@
-.App {
-  text-align: center;
+.bg-a {
+    background-color: #5D5C61; }
+
+.bg-b {
+    background-color: #379683; }
+
+.bg-c {
+    background-color: #7395AE; }
+
+.bg-d {
+    background-color: #557A95; }
+
+.bg-e {
+    background-color: #B1A296; }
+
+body {
+    margin-top: 60px; }
+
+.active {
+    border-top: 2px solid #B1A296; }
+
+.row-content {
+    margin: 50px auto;
+    padding: 20px auto;
 }
 
-.App-logo {
-  height: 40vmin;
-}
+.navbar .container {
+    background-color: inherit; }
+.navbar .container .nav-item a {
+    color: floralwhite; }
+.navbar .container .nav-item a:hover {
+    border-top: 2px solid #B1A296;
+    color: #379683; }
+.navbar .container .navbar-text {
+    color: floralwhite; }
+.navbar .container input {
+    background-color: #7395AE;
+    border: #7395AE solid;
+    color: floralwhite; }
+.navbar .container ::placeholder {
+    /* Firefox, Chrome, Opera */
+    color: floralwhite; }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.modal-content {
+    background-color: #7395AE;
+    color : floralwhite;
 }
+.modal-content .modal-header {
+    background-color: #5D5C61; }
+.modal-content .modal-header .close {
+    color: floralwhite; }
+.modal-content .modal-body {
+    background-color: #557A95; }
 
-.App-link {
-  color: #09d3ac;
+.carousel .carousel-item {
+    max-height: 400px; }
+.carousel .carousel-item .carousel-caption {
+    padding: 10px;
+    opacity: 0.6;
+    background-color: floralwhite;
+    color: #000A01;
+    font-weight: bold;
+    max-height: 200px;
+    overflow: hidden; }
+
+.card {
+    padding: 0  auto;
 }
+.card .card-header {
+    padding: 0  auto; }
+.card .card-header img {
+    padding: 0  auto; }
+
+.embed-responsive .card-img-top {
+    object-fit: cover; }
+
+.text-center {
+    color: floralwhite; }
+.text-center a {
+    color: floralwhite; }
+
+footer {
+    min-height: 200px; }
+
+a {
+    text-decoration: none;
+    color: #000A01; }
+
+a:hover {
+    text-decoration: none; }
+
+table thead tr td {
+    min-width: 205px; }
+
+
